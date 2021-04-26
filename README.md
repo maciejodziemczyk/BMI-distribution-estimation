@@ -1,5 +1,5 @@
 # BMI distribution estimation
-Project created for Analytical Tools Programing (org. Programowanie Narzędzi Analitycznych) classes at WNE UW
+Project created for *Analytical Tools Programing* (org. *Programowanie Narzędzi Analitycznych*) classes at WNE UW
 
 Language: Polish - classes, report and code comments 
 
