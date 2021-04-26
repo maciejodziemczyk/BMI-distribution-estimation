@@ -22,8 +22,6 @@ Findings:
 * BMI.csv - data in .csv format
 * Projekt PNA Maciej Odziemczyk [388581].pdf - project report (in Polish)
 * Projekt PNA Maciej Odziemczyk [388581].R - project code
------
-Note: to run the code pwd must be specified
 
 ## Technologies
  * R programming language (simple visualizations, estimations performed with written functions (MLE, GMM), tests written from scratch)
@@ -33,6 +31,8 @@ Note: to run the code pwd must be specified
 Maciej Odziemczyk
 
 ## Notes
-That was one of my first projects at WNE UW
+* That was one of my first projects at WNE UW
+* to run the code pwd must be specified
+
 
   
