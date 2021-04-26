@@ -25,7 +25,7 @@ Findings:
 * Projekt PNA Maciej Odziemczyk [388581].R - project code
 
 ## Technologies
- * R programming language (simple visualizations, estimations performed with written functions (MLE, GMM), tests written from scratch)
+ * R (simple visualizations, estimations performed with written functions (MLE, GMM), tests written from scratch)
  * Word (report writing)
 
 ## Author
