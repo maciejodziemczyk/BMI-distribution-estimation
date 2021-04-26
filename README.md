@@ -5,7 +5,7 @@ Language: Polish - classes, report and code comments
 Semester: I (MA studies)
 
 ## About
-The main objective of this project was to apply distributions estimations methods, statistical hypotesis veryfing and R programming language basics training learned during classes. The project is about Body Mass Index (BMI) distribution estimation on dataset found on kaggle.com for the whole sample and for mans and women separately. The idea was to assume some theoretical distributions and find proper parameters via Maximum Likelihood Estimation (MLE) and General Method of Moments (GMM). Assumed theoretical distributions were Normal (Gaussian) and 2-parametric Weibull. Godness of fit and estimation methods comparison was verified with quantile-quantile plots (empirical distribution vs theoritical with estimated parameters). Research hypotesis was:
+The main objective of this project was to apply distributions estimations methods, statistical hypotesis veryfing tests and R programming training learned during classes. The project is about Body Mass Index (BMI) distribution estimation on dataset found on kaggle.com for the whole sample and for mans and women separately. The idea was to assume some theoretical distributions and find proper parameters via Maximum Likelihood Estimation (MLE) and General Method of Moments (GMM). Assumed theoretical distributions were Normal (Gaussian) and 2-parametric Weibull. Godness of fit and estimation methods comparison was verified with quantile-quantile plots (empirical distribution vs theoritical with estimated parameters). Research hypotesis was:
 
 1. 37.5 distribution mean with 2.5 standard deviation which means secondary obesity (Normal distribution)
 2. scale parameter k=3 (Weibull distribution)
