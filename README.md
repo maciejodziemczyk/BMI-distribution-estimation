@@ -35,6 +35,3 @@ Maciej Odziemczyk
 ## Notes
 * That was one of my first projects at WNE UW
 * to run the code pwd must be specified
-
-
-  
