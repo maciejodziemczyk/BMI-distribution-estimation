@@ -14,7 +14,7 @@ Joint hypotesis was tested via Likelihood Ratio test (MLE) and Wald test (GMM). 
 
 Findings:
   
-  *Both Normal and Weibull distributions can be considered while BMI modelling, what is impressive because that proves Weibull distribution flexibility (it is considered for many tasks - eqrthquakes magnitudes, failure rates or winds modelling),
-  *no basics for accepting 1. hypotesis what is good because proves good society physical condition, 2. hypotesis was rejected too,
-  *Mans has worse physical condition than women in terms of BMI
+  * Both Normal and Weibull distributions can be considered while BMI modelling, what is impressive because that proves Weibull distribution flexibility (it is considered for many tasks - eqrthquakes magnitudes, failure rates or winds modelling),
+  * no basics for accepting 1. hypotesis what is good because proves good society physical condition, 2. hypotesis was rejected too,
+  * Mans has worse physical condition than women in terms of BMI
   
