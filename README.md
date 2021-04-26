@@ -8,8 +8,8 @@ Semester: I (MA studies)
 ## About
 The main objective of this project was to apply distributions estimations methods, statistical hypothesis verification and practice programming in R, learned during classes. The project is about Body Mass Index (BMI) distribution estimation on dataset found on kaggle.com for the whole sample and for men and women separately. The idea was to assume some theoretical distributions and find proper parameters via Maximum Likelihood Estimation (MLE) and General Method of Moments (GMM). Assumed theoretical distributions were Normal (Gaussian) and 2-parametric Weibull. Godness of fit verification and estimation methods comparison were carried out using quantile-quantile plots (empirical distribution vs theoritical with estimated parameters). Research hypothesis was:
 
-1. 37.5 distribution mean with 2.5 standard deviation which means obesity of the second degree (Normal distribution)
-2. scale parameter k=3 (Weibull distribution)
+1. 37.5 distribution mean with 2.5 standard deviation which means obesity of the second degree (Normal distribution).
+2. Scale parameter k=3 (Weibull distribution).
   
 Joint hypothesis was tested via Likelihood Ratio test (MLE) and Wald test (GMM). Simple hypothesis was tested via z test.
 
