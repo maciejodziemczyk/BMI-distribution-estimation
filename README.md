@@ -19,6 +19,7 @@ Findings:
 * no basics for accepting 1st hypothesis what is good because proves good society physical condition, 2nd hypothesis was rejected too
 * men has worse physical condition than women in terms of BMI and WHO guidelines
 
+In this project I learned a lot about statistical analysis, especially distribution estimation (using MLE, MM, GMM) and hypothesis verification.
 
 ## Repository description
 * BMI.csv - data in .csv format
